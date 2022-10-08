@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0minutes
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python and soon want to migrate to C# or C++
+- 🌱 I’m currently learning python and learning how to make discord bots!
 - 📫 How to reach me - My discord is 0minutes#0201
 
 <!---
